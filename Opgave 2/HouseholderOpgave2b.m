@@ -1,4 +1,7 @@
 function HouseholderOpgave2b(cond_nb,nb_tests)
+%Function for exercise 2b. Executes #nb_test tests for the implicit and
+%explicit method with n=10,100,1000. Displays the values for the equation
+%of exercise 2b and displays the time it took.
 Matrix_size =[10,100,1000];
 time_exp = zeros(1,3);
 time_imp = zeros(1,3);
@@ -44,6 +47,7 @@ for(a=1:3)
 end
 figure
     loglog(Matrix_size,time_exp,Matrix_size,time_imp)
+    legend('Expliciet','impliciet')
     title('Time Plot')
     xlabel('n')
     ylabel('ExecuteTime')

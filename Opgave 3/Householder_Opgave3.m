@@ -1,4 +1,5 @@
 function [R,Qt] = Householder_Opgave3(A)
+%Explicit householder QR factoristation (Same as exercise 2).
 [m,n]=size(A);
 I= eye(m);
 R = A;

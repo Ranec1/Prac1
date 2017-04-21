@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.14)  9 APR 2017 10:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.14)  21 APR 2017 12:22
 entering extended mode
 **./main.tex
 (main.tex
@@ -684,22 +684,22 @@ LaTeX Warning: Label `my-label' multiply defined.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
 \AtBeginShipoutBox=\box33
-Package hyperref Info: Link coloring ON on input line 16.
+Package hyperref Info: Link coloring ON on input line 17.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
@@ -708,9 +708,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count121
 )
-LaTeX Info: Redefining \ref on input line 16.
-LaTeX Info: Redefining \pageref on input line 16.
-LaTeX Info: Redefining \nameref on input line 16.
+LaTeX Info: Redefining \ref on input line 17.
+LaTeX Info: Redefining \pageref on input line 17.
+LaTeX Info: Redefining \nameref on input line 17.
 
 (main.out) (main.out)
 \@outlinefile=\write3
@@ -782,30 +782,38 @@ G,.JBIG2,.JB2,.eps]
 LaTeX Warning: No \author given.
 
 Package babel Info: Redefining dutch shorthand "|
-(babel)             in language  on input line 24.
+(babel)             in language  on input line 25.
 Package babel Info: Redefining dutch shorthand "~
-(babel)             in language  on input line 24.
+(babel)             in language  on input line 25.
 Package babel Info: Redefining dutch shorthand "|
-(babel)             in language  on input line 25.
+(babel)             in language  on input line 26.
 Package babel Info: Redefining dutch shorthand "~
-(babel)             in language  on input line 25.
+(babel)             in language  on input line 26.
 
-Underfull \hbox (badness 10000) in paragraph at lines 32--36
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 \newline
+             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--41
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--46
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 50--52
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
 
  []
 
 ! Extra }, or forgotten $.
-l.57   Aangezien \(Fw = w-2w(\transpose{w}w)=-w}
+l.52   Aangezien \(Fw = w-2w(\transpose{w}w)=-w}
                                                 \) is minstens er één eige...
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -814,7 +822,7 @@ the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
 ! Extra }, or forgotten $.
-l.57 ... u, loodrecht op w, geldt:  \(Fu = u-0w=u}
+l.52 ... u, loodrecht op w, geldt:  \(Fu = u-0w=u}
                                                   \)
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -823,41 +831,41 @@ the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--59
+Underfull \hbox (badness 10000) in paragraph at lines 47--54
 
  []
 
 Package babel Info: Redefining dutch shorthand "|
-(babel)             in language  on input line 59.
+(babel)             in language  on input line 54.
 Package babel Info: Redefining dutch shorthand "~
-(babel)             in language  on input line 59.
+(babel)             in language  on input line 54.
 Package babel Info: Redefining dutch shorthand "|
-(babel)             in language  on input line 59.
+(babel)             in language  on input line 54.
 Package babel Info: Redefining dutch shorthand "~
-(babel)             in language  on input line 59.
+(babel)             in language  on input line 54.
 [1
 
 {C:/Users/Ranec Belpaire/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-<pictures/Householdereigenwaarden.png, id=36, 642.4pt x 401.5pt>
+<pictures/Householdereigenwaarden.png, id=47, 642.4pt x 401.5pt>
 File: pictures/Householdereigenwaarden.png Graphic file (type png)
 
 <use pictures/Householdereigenwaarden.png>
 Package pdftex.def Info: pictures/Householdereigenwaarden.png used on input lin
-e 63.
+e 58.
 (pdftex.def)             Requested size: 192.72148pt x 120.45091pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--65
+Underfull \hbox (badness 10000) in paragraph at lines 55--60
 
  []
 
 Package babel Info: Redefining dutch shorthand "|
-(babel)             in language  on input line 68.
+(babel)             in language  on input line 63.
 Package babel Info: Redefining dutch shorthand "~
-(babel)             in language  on input line 68.
+(babel)             in language  on input line 63.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.90 ...n{1}{l|}{\cellcolor[HTML]{EFEFEF}\delta x}
+l.85 ...n{1}{l|}{\cellcolor[HTML]{EFEFEF}\delta x}
                                                    & \multicolumn{1}{l|}{\ce...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -865,7 +873,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.90 ...n{1}{l|}{\cellcolor[HTML]{EFEFEF}\delta x}
+l.85 ...n{1}{l|}{\cellcolor[HTML]{EFEFEF}\delta x}
                                                    & \multicolumn{1}{l|}{\ce...
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -876,7 +884,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.90 ...1}{l|}{\cellcolor[HTML]{EFEFEF}\delta x/x}
+l.85 ...1}{l|}{\cellcolor[HTML]{EFEFEF}\delta x/x}
                                                    & \multicolumn{1}{l|}{\ce...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -884,7 +892,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.90 ...1}{l|}{\cellcolor[HTML]{EFEFEF}\delta x/x}
+l.85 ...1}{l|}{\cellcolor[HTML]{EFEFEF}\delta x/x}
                                                    & \multicolumn{1}{l|}{\ce...
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -895,7 +903,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.90 ...n{1}{l|}{\cellcolor[HTML]{EFEFEF}\delta x}
+l.85 ...n{1}{l|}{\cellcolor[HTML]{EFEFEF}\delta x}
                                                    & \multicolumn{1}{l|}{\ce...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -903,7 +911,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.90 ...n{1}{l|}{\cellcolor[HTML]{EFEFEF}\delta x}
+l.85 ...n{1}{l|}{\cellcolor[HTML]{EFEFEF}\delta x}
                                                    & \multicolumn{1}{l|}{\ce...
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -914,7 +922,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.90 ...1}{l|}{\cellcolor[HTML]{EFEFEF}\delta x/x}
+l.85 ...1}{l|}{\cellcolor[HTML]{EFEFEF}\delta x/x}
                                                    & \multicolumn{1}{l|}{\ce...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -922,7 +930,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.90 ...1}{l|}{\cellcolor[HTML]{EFEFEF}\delta x/x}
+l.85 ...1}{l|}{\cellcolor[HTML]{EFEFEF}\delta x/x}
                                                    & \multicolumn{1}{l|}{\ce...
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -931,14 +939,14 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-Overfull \hbox (66.45401pt too wide) in paragraph at lines 79--95
+Overfull \hbox (66.45401pt too wide) in paragraph at lines 74--90
  [][] 
  []
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.98  	\caption{Conditie van A gelijk aan 10^4}
+l.93  	\caption{Conditie van A gelijk aan 10^4}
                                                
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -946,7 +954,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.98  	\caption{Conditie van A gelijk aan 10^4}
+l.93  	\caption{Conditie van A gelijk aan 10^4}
                                                
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -954,7 +962,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.111 ...{1}{l|}{\cellcolor[HTML]{EFEFEF}\delta x}
+l.106 ...{1}{l|}{\cellcolor[HTML]{EFEFEF}\delta x}
                                                    & \multicolumn{1}{l|}{\ce...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -962,7 +970,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.111 ...{1}{l|}{\cellcolor[HTML]{EFEFEF}\delta x}
+l.106 ...{1}{l|}{\cellcolor[HTML]{EFEFEF}\delta x}
                                                    & \multicolumn{1}{l|}{\ce...
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -973,7 +981,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.111 ...}{l|}{\cellcolor[HTML]{EFEFEF}\delta x/x}
+l.106 ...}{l|}{\cellcolor[HTML]{EFEFEF}\delta x/x}
                                                    & \multicolumn{1}{l|}{\ce...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -981,7 +989,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.111 ...}{l|}{\cellcolor[HTML]{EFEFEF}\delta x/x}
+l.106 ...}{l|}{\cellcolor[HTML]{EFEFEF}\delta x/x}
                                                    & \multicolumn{1}{l|}{\ce...
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -992,7 +1000,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.111 ...{1}{l|}{\cellcolor[HTML]{EFEFEF}\delta x}
+l.106 ...{1}{l|}{\cellcolor[HTML]{EFEFEF}\delta x}
                                                    & \multicolumn{1}{l|}{\ce...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1000,7 +1008,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.111 ...{1}{l|}{\cellcolor[HTML]{EFEFEF}\delta x}
+l.106 ...{1}{l|}{\cellcolor[HTML]{EFEFEF}\delta x}
                                                    & \multicolumn{1}{l|}{\ce...
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1011,7 +1019,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.111 ...}{l|}{\cellcolor[HTML]{EFEFEF}\delta x/x}
+l.106 ...}{l|}{\cellcolor[HTML]{EFEFEF}\delta x/x}
                                                    & \multicolumn{1}{l|}{\ce...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1019,7 +1027,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.111 ...}{l|}{\cellcolor[HTML]{EFEFEF}\delta x/x}
+l.106 ...}{l|}{\cellcolor[HTML]{EFEFEF}\delta x/x}
                                                    & \multicolumn{1}{l|}{\ce...
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1028,14 +1036,14 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-Overfull \hbox (66.45401pt too wide) in paragraph at lines 100--116
+Overfull \hbox (66.45401pt too wide) in paragraph at lines 95--111
  [][] 
  []
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.119  	\caption{Conditie van A gelijk aan 10^8}
+l.114  	\caption{Conditie van A gelijk aan 10^8}
                                                 
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1043,7 +1051,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.119  	\caption{Conditie van A gelijk aan 10^8}
+l.114  	\caption{Conditie van A gelijk aan 10^8}
                                                 
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1051,7 +1059,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.132 ...{1}{l|}{\cellcolor[HTML]{EFEFEF}\delta x}
+l.127 ...{1}{l|}{\cellcolor[HTML]{EFEFEF}\delta x}
                                                    & \multicolumn{1}{l|}{\ce...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1059,7 +1067,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.132 ...{1}{l|}{\cellcolor[HTML]{EFEFEF}\delta x}
+l.127 ...{1}{l|}{\cellcolor[HTML]{EFEFEF}\delta x}
                                                    & \multicolumn{1}{l|}{\ce...
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1070,7 +1078,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.132 ...}{l|}{\cellcolor[HTML]{EFEFEF}\delta x/x}
+l.127 ...}{l|}{\cellcolor[HTML]{EFEFEF}\delta x/x}
                                                    & \multicolumn{1}{l|}{\ce...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1078,7 +1086,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.132 ...}{l|}{\cellcolor[HTML]{EFEFEF}\delta x/x}
+l.127 ...}{l|}{\cellcolor[HTML]{EFEFEF}\delta x/x}
                                                    & \multicolumn{1}{l|}{\ce...
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1089,7 +1097,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.132 ...{1}{l|}{\cellcolor[HTML]{EFEFEF}\delta x}
+l.127 ...{1}{l|}{\cellcolor[HTML]{EFEFEF}\delta x}
                                                    & \multicolumn{1}{l|}{\ce...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1097,7 +1105,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.132 ...{1}{l|}{\cellcolor[HTML]{EFEFEF}\delta x}
+l.127 ...{1}{l|}{\cellcolor[HTML]{EFEFEF}\delta x}
                                                    & \multicolumn{1}{l|}{\ce...
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1108,7 +1116,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.132 ...}{l|}{\cellcolor[HTML]{EFEFEF}\delta x/x}
+l.127 ...}{l|}{\cellcolor[HTML]{EFEFEF}\delta x/x}
                                                    & \multicolumn{1}{l|}{\ce...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1116,7 +1124,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.132 ...}{l|}{\cellcolor[HTML]{EFEFEF}\delta x/x}
+l.127 ...}{l|}{\cellcolor[HTML]{EFEFEF}\delta x/x}
                                                    & \multicolumn{1}{l|}{\ce...
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1125,73 +1133,77 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-Overfull \hbox (76.45404pt too wide) in paragraph at lines 121--137
+Overfull \hbox (76.45404pt too wide) in paragraph at lines 116--132
  [][] 
  []
 
-<pictures/HouseholderTimePlot.png, id=38, 414.79968pt x 313.17pt>
+<pictures/HouseholderTimePlot.png, id=49, 414.79968pt x 313.17pt>
 File: pictures/HouseholderTimePlot.png Graphic file (type png)
 
 <use pictures/HouseholderTimePlot.png>
-Package pdftex.def Info: pictures/HouseholderTimePlot.png used on input line 14
-5.
+Package pdftex.def Info: pictures/HouseholderTimePlot.png used on input line 13
+8.
 (pdftex.def)             Requested size: 248.88173pt x 187.90344pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 139--147
-
- []
-
 Package babel Info: Redefining dutch shorthand "|
-(babel)             in language  on input line 147.
+(babel)             in language  on input line 140.
 Package babel Info: Redefining dutch shorthand "~
-(babel)             in language  on input line 147.
+(babel)             in language  on input line 140.
 Package babel Info: Redefining dutch shorthand "|
-(babel)             in language  on input line 147.
+(babel)             in language  on input line 140.
 Package babel Info: Redefining dutch shorthand "~
-(babel)             in language  on input line 147.
-[2pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) 
-has been already used, duplicate ignored
+(babel)             in language  on input line 140.
+ [2pdfTeX warning (ext4): destination with the same identifier (name{figure.1})
+ has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.147 \end{figure}
+l.140 \end{figure}
                   pdfTeX warning (ext4): destination with the same identifier (
 name{table.1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.147 \end{figure}
+l.140 \end{figure}
                   pdfTeX warning (ext4): destination with the same identifier (
 name{table.2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.147 \end{figure}
+l.140 \end{figure}
                   pdfTeX warning (ext4): destination with the same identifier (
 name{table.3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.147 \end{figure}
+l.140 \end{figure}
                    <./pictures/Householdereigenwaarden.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 148--151
 
- []
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.141 \newline
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 Package babel Info: Redefining dutch shorthand "|
-(babel)             in language  on input line 152.
+(babel)             in language  on input line 144.
 Package babel Info: Redefining dutch shorthand "~
-(babel)             in language  on input line 152.
-<pictures/Model_opgave3.png, id=49, 421.575pt x 316.18124pt>
+(babel)             in language  on input line 144.
+<pictures/Model_opgave3.png, id=60, 421.575pt x 316.18124pt>
 File: pictures/Model_opgave3.png Graphic file (type png)
 
 <use pictures/Model_opgave3.png>
-Package pdftex.def Info: pictures/Model_opgave3.png used on input line 159.
-(pdftex.def)             Requested size: 140.84334pt x 105.6331pt.
+Package pdftex.def Info: pictures/Model_opgave3.png used on input line 151.
+(pdftex.def)             Requested size: 134.44101pt x 100.83269pt.
 
 ! Undefined control sequence.
-l.160 		\captionof
-                  {Residu}
+l.152 		\captionof
+                  {Residu model}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -1199,21 +1211,21 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (12.80464pt too wide) in paragraph at lines 159--162
+Overfull \hbox (6.40231pt too wide) in paragraph at lines 151--154
  [][] 
  []
 
-<pictures/Validate_model_opgave3.png, id=50, 421.575pt x 316.18124pt>
+<pictures/Validate_model_opgave3.png, id=61, 421.575pt x 316.18124pt>
 File: pictures/Validate_model_opgave3.png Graphic file (type png)
 
 <use pictures/Validate_model_opgave3.png>
 Package pdftex.def Info: pictures/Validate_model_opgave3.png used on input line
- 165.
-(pdftex.def)             Requested size: 140.84334pt x 105.6331pt.
+ 157.
+(pdftex.def)             Requested size: 134.44101pt x 100.83269pt.
 
 ! Undefined control sequence.
-l.166 		\captionof
-                  {Validate model}
+l.158 		\captionof
+                  {Residu validate model}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -1221,69 +1233,331 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (12.80464pt too wide) in paragraph at lines 165--168
+Overfull \hbox (6.40231pt too wide) in paragraph at lines 157--160
  [][] 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 175.
 Package babel Info: Redefining dutch shorthand "|
-(babel)             in language  on input line 175.
+(babel)             in language  on input line 163.
 Package babel Info: Redefining dutch shorthand "~
-(babel)             in language  on input line 175.
+(babel)             in language  on input line 163.
 Package babel Info: Redefining dutch shorthand "|
-(babel)             in language  on input line 175.
+(babel)             in language  on input line 163.
 Package babel Info: Redefining dutch shorthand "~
-(babel)             in language  on input line 175.
+(babel)             in language  on input line 163.
 [3pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) 
 has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.175 \end{document}
-                    pdfTeX warning (ext4): destination with the same identifier
- (name{figure.3}) has been already used, duplicate ignored
+l.163 \newpage
+              pdfTeX warning (ext4): destination with the same identifier (name
+{figure.3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.175 \end{document}
-                     <./pictures/HouseholderTimePlot.png> <./pictures/Model_opg
-ave3.png (PNG copy)> <./pictures/Validate_model_opgave3.png (PNG copy)>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 175.
+l.163 \newpage
+               <./pictures/HouseholderTimePlot.png> <./pictures/Model_opgave3.p
+ng (PNG copy)> <./pictures/Validate_model_opgave3.png (PNG copy)>]
+Package babel Info: Redefining dutch shorthand "|
+(babel)             in language  on input line 164.
+Package babel Info: Redefining dutch shorthand "~
+(babel)             in language  on input line 164.
+Package babel Info: Redefining dutch shorthand "|
+(babel)             in language  on input line 165.
+Package babel Info: Redefining dutch shorthand "~
+(babel)             in language  on input line 165.
 
-(main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 175.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 175.
+! Missing $ inserted.
+<inserted text> 
+                $
+l.166 ...script{min},\lambda\textsubscript{max}]$}
+                                                   \newline
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.166 ...script{min},\lambda\textsubscript{max}]$}
+                                                   \newline
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+! LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.167 ...ie Rayleigh quotiënt voor matrix A : $\(
+                                                  r(x) = \frac{\transpose{x}...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.167 ...\frac{\transpose{x}Ax}{\transpose{x}x}$\)
+                                                   met $x\neq0$. \newline
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.168 ...inv{U}$ is de teller te schrijven als $\(
+                                                  \transpose{x}U\Lambda\inv{...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.168 ...{U}x =\sum_{i=1}^{n} \lambda_i(u_ix)^2$\)
+                                                   en gelijkaardig is de noe...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.168 ...aardig is de noemer te schrijven als  $\(
+                                                  \transpose{x}x =\sum_{i=1}...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.168 ...transpose{x}x =\sum_{i=1}^{n}(u_ix)^2 $\)
+                                                  .\newline
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.170 Veronderstel nu dat $\(
+                             \lambda_1 \geq \lambda_2 \geq ... \geq \lambda_...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.170 ...\geq \lambda_2 \geq ... \geq \lambda_n$\)
+                                                   en hieruit volgt:\newline...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--170
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--170
+
+ []
+
+! Missing delimiter (. inserted).
+<to be read again> 
+                   =
+l.177 ...ids cirkel met $\left\vert|x|\vert\right=
+                                                   1$ met de stationaire pun...
+I was expecting to see something like `(' or `\{' or
+`\}' here. If you typed, e.g., `{' instead of `\{', you
+should probably delete the `{' by typing `1' now, so that
+braces don't get unbalanced. Otherwise just proceed.
+Acceptable delimiters are characters whose \delcode is
+nonnegative, or you can use `\delimiter <delimiter code>'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--178
+
+ []
+
+Package babel Info: Redefining dutch shorthand "|
+(babel)             in language  on input line 178.
+Package babel Info: Redefining dutch shorthand "~
+(babel)             in language  on input line 178.
+
+! LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.181 ...ectoren van A. Door de berekening van $\(
+                                                  A^{(k)} = \transpose{(Q^{(...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.181 ...^{(k)} = \transpose{(Q^{(k)})}AQ^{(k)}$\)
+                                                   kan men dan de eigenwaard...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Package babel Info: Redefining dutch shorthand "|
+(babel)             in language  on input line 184.
+Package babel Info: Redefining dutch shorthand "~
+(babel)             in language  on input line 184.
+Package babel Info: Redefining dutch shorthand "|
+(babel)             in language  on input line 184.
+Package babel Info: Redefining dutch shorthand "~
+(babel)             in language  on input line 184.
+[4] <pictures/Opgave5b.png, id=76, 421.575pt x 316.18124pt>
+File: pictures/Opgave5b.png Graphic file (type png)
+
+<use pictures/Opgave5b.png>
+Package pdftex.def Info: pictures/Opgave5b.png used on input line 191.
+(pdftex.def)             Requested size: 337.26045pt x 252.94533pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--193
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--193
+
+ []
+
+
+! LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.194 ...)}I\] Deze kunnen we dan omvormen tot $\(
+                                                  A^{(k)} = \transpose{(Q^{(...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.194 ... \transpose{(Q^{(k)})}A^{(k-1)}Q^{(k)}$\)
+                                                   \newline en door inductie...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 199.
+Package babel Info: Redefining dutch shorthand "|
+(babel)             in language  on input line 199.
+Package babel Info: Redefining dutch shorthand "~
+(babel)             in language  on input line 199.
+Package babel Info: Redefining dutch shorthand "|
+(babel)             in language  on input line 199.
+Package babel Info: Redefining dutch shorthand "~
+(babel)             in language  on input line 199.
+[5pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.199 \end{document}
+                     <./pictures/Opgave5b.png (PNG copy)>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 199.
+ (main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 199.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 199.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: A87A7D3D6D21983234E50DB9083FE56B;257.
+(rerunfilecheck)             Checksum: 39217D855C5E2B5700E75F7403D34532;428.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 175.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 199.
  ) 
 Here is how much of TeX's memory you used:
- 8107 strings out of 493333
- 115341 string characters out of 3139165
- 236976 words of memory out of 3000000
- 11513 multiletter control sequences out of 15000+200000
- 9834 words of font info for 36 fonts, out of 3000000 for 9000
+ 8122 strings out of 493333
+ 115557 string characters out of 3139165
+ 237000 words of memory out of 3000000
+ 11521 multiletter control sequences out of 15000+200000
+ 9785 words of font info for 36 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,11n,35p,581b,370s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,11n,35p,922b,370s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program Files/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr1
-7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/
-Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program 
-Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Program Files/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (3 pages, 214387 bytes).
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx7.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmmi5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.
+pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/P
+rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmti10.pfb>
+Output written on main.pdf (5 pages, 262435 bytes).
 PDF statistics:
- 104 PDF objects out of 1000 (max. 8388607)
- 14 named destinations out of 1000 (max. 500000)
- 53 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 135 PDF objects out of 1000 (max. 8388607)
+ 20 named destinations out of 1000 (max. 500000)
+ 82 words of extra memory for PDF output out of 10000 (max. 10000000)
 
